@@ -52,3 +52,30 @@ float f = 1f /3f;
 //ejejmplo a los float hay que ponerles una f al final
  float sueldo = 1220.50f;
  Console.WriteLine(sueldo);
+ Console.WriteLine($"Flotante: {sueldo}");
+
+//ejemplo double es más preciso que el float
+double s = 1.0 / 3.0;
+Console.WriteLine(s);
+Console.WriteLine($"Double: {s}");
+
+//Ejemplo decimal es muy preciso.
+decimal m = 1m / 3m;
+Console.WriteLine(m);
+Console.WriteLine($"Decimal: {m}");
+
+decimal calculo = 1225.50m;
+decimal aumento = 47.56m;
+
+Console.WriteLine("Aumento wrong" + calculo+aumento);
+
+float resultadoFinal = (float)(calculo + aumento);
+Console.WriteLine("Aumento right " + resultadoFinal);
+
+
+Console.WriteLine("+++++++++++++++Boleano y var++++++");
+
+bool esMayor = false;
+Console.WriteLine(esMayor);
+esMayor = true;
+Console.WriteLine(esMayor);
