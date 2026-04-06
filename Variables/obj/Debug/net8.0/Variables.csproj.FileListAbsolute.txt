@@ -12,3 +12,4 @@ C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\Variables\obj\Debug\net8.0\r
 C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\Variables\obj\Debug\net8.0\Variables.pdb
 C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
 C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\Variables\obj\Debug\net8.0\ref\Variables.dll
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\Variables\obj\Debug\net8.0\Variables.sourcelink.json
