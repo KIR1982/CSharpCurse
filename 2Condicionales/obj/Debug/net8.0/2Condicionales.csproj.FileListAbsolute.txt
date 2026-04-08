@@ -1,0 +1,15 @@
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\bin\Debug\net8.0\2Condicionales.exe
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\bin\Debug\net8.0\2Condicionales.deps.json
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\bin\Debug\net8.0\2Condicionales.runtimeconfig.json
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\bin\Debug\net8.0\2Condicionales.dll
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\bin\Debug\net8.0\2Condicionales.pdb
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.AssemblyInfoInputs.cache
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.AssemblyInfo.cs
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.sourcelink.json
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.dll
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\refint\2Condicionales.dll
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.pdb
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\2Condicionales.genruntimeconfig.cache
+C:\Users\DEPACHOFISCALCONTABL\Documents\CursoCCharp\2Condicionales\obj\Debug\net8.0\ref\2Condicionales.dll
